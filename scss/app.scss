@@ -83,7 +83,7 @@ img {
             input[type="submit"] {
                 position: absolute;
                 right: 0;
-                top:.1rem;
+                top:0.02rem;
                 text-decoration: none;
                 border:none;
                 text-indent: -9999px;
@@ -92,7 +92,7 @@ img {
                 background-repeat: no-repeat;
                 background-position: center center;
                 width: calc( 3rem - 10px);
-                height: calc( 3rem - 10px);
+                height: calc( 3rem - 0.1rem);
             }
             input[type="text"] {
                 width: 100%;
